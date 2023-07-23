@@ -16,5 +16,12 @@ int main()
     printf("Answer: %d \n", multi);
     printf("Answer: %d \n", div);
 
+    printf("Answer: %d \n",  add);
+    printf("Answer: %d \n", sub);
+    printf("Answer: %d \n", multi);
+    printf("Answer: %d \n", div);
+
+
+
 
 }
