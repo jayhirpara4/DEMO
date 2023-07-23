@@ -12,9 +12,29 @@ int main()
     div=a/b;
 
     printf("Answer: %d \n",  add);
+
+    printf("Enter a first number:");
+    scanf("%d",&a);
+    printf("Enter a second number:");
+    scanf("%d",&b);
+
     printf("Answer: %d \n", sub);
+
+    printf("Enter a first number:");
+    scanf("%d",&a);
+    printf("Enter a second number:");
+    scanf("%d",&b);
+
     printf("Answer: %d \n", multi);
+
+    printf("Enter a first number:");
+    scanf("%d",&a);
+    printf("Enter a second number:");
+    scanf("%d",&b);
+
     printf("Answer: %d \n", div);
+
+
 
 
 }
